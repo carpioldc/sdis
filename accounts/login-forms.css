@@ -1,0 +1,26 @@
+.error {
+	color: red;
+}
+.form-box { 
+	width: 800px;
+	border: 40px solid sienna;
+	border-radius: 20px;
+	box-shadow: 10px 10px 15px darkslategrey;
+	background: seashell;
+	padding: 20px;
+	margin: auto;
+}
+body { 
+	background: seagreen;
+}
+.title { 
+	font-size: 1.5em;
+	text-align: center;
+	font-family: Georgia, serif;
+	color: orange;
+}
+td {    
+	padding: 10px;
+	font-family: "Arial Black", Gadget, sans-serif;
+}
+
